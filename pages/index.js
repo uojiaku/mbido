@@ -34,7 +34,20 @@ const Home = () => {
       <span className={styles.App_header}>
       <Image src="/odogwu.svg" alt="Odogwu" width={750} height={750} className={styles.App_logo} />
       </span>
+
+      <div>
+      <span className={styles.App_header}>
+      <Image src="/genevieve.JPG" alt="gene" width={750} height={750} className={styles.App_nothing} />
+      </span>
+      </div>
+
+      <div>
+      <span className={styles.App_header}>
+      <Image src="/genevieve1.JPG" alt="gene1" width={750} height={750} className={styles.App_nothing} />
+      </span>
+      </div>
     </div>
+    
   )
 }
 
