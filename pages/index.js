@@ -58,6 +58,12 @@ const Home = () => {
       <Image src="/genevieve4.JPG" alt="gene1" width={750} height={750} className={styles.App_nothing} />
       </span>
       </div>
+
+      <div>
+      <span className={styles.App_header}>
+      <Image src="/kolanut.jpg" alt="gene1" width={750} height={750} className={styles.App_nothing} />
+      </span>
+      </div>
     </div>
     
   )
