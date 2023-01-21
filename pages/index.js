@@ -67,7 +67,7 @@ const Home = () => {
 
       <div>
       <span className={styles.App_header}>
-      <Image src="/idonotown.jpeg" alt="gene1" width={750} height={750} className={styles.App_nothing} />
+      <Image src="/palmtreeclimber.png" alt="gene1" width={750} height={750} className={styles.App_nothing} />
       </span>
       </div>
     </div>
