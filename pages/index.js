@@ -70,6 +70,12 @@ const Home = () => {
       <Image src="/palmtreeclimber.png" alt="gene1" width={750} height={750} className={styles.App_nothing} />
       </span>
       </div>
+
+      <div>
+      <span className={styles.App_header}>
+      <Image src="/nigerian_pounds.jpg" alt="gene1" width={750} height={750} className={styles.App_nothing} />
+      </span>
+      </div>
     </div>
     
   )
